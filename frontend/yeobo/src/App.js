@@ -1,4 +1,5 @@
 import React from 'react';
+import './App.css';
 import { Route, Routes, Link } from 'react-router-dom';
 // import { BrowserView, MobileView } from 'react-device-detect';
 import Main from './MainPage/Main';
